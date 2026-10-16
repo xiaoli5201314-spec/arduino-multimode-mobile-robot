@@ -1,0 +1,9 @@
+build/
+.verification/
+*.hex
+*.elf
+*.eep
+*.o
+*.a
+*.map
+.DS_Store

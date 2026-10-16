@@ -1,0 +1,61 @@
+{
+  "source_archive": "YT041-基于Arduino开发板设计的机器人完整电路方案.zip",
+  "archive_sha256": "1b02b0712145c5df6a00c2c35510a99c8feae389ff9061e01ea20caeb6dfdcc2",
+  "upstream": "https://github.com/maker101io/RobotControlBoard",
+  "files": [
+    {
+      "archive_member": "RobotControlBoard-master/Connections.png",
+      "path": "third_party/RobotControlBoard/Connections.png",
+      "sha256": "7964a5bd053e3720d8831d6b59ad8c28be748fb2831db11caaa9809028e3d9ef",
+      "bytes": 155655
+    },
+    {
+      "archive_member": "RobotControlBoard-master/Cover_png.png",
+      "path": "third_party/RobotControlBoard/Cover_png.png",
+      "sha256": "f5e2cf317835bcbe164709927383fbfcd9b2ff58f22383a6f9b099e744fbeef4",
+      "bytes": 1417433
+    },
+    {
+      "archive_member": "RobotControlBoard-master/Drawing_Mode.ino",
+      "path": "firmware/Drawing_Mode/Drawing_Mode.ino",
+      "sha256": "26328fbc7e0f8ab7ce1975d5dc13be4fac9cdd8429780979012fcec2e3f9152c",
+      "bytes": 1542
+    },
+    {
+      "archive_member": "RobotControlBoard-master/Follow_Me_Mode.ino",
+      "path": "firmware/Follow_Me_Mode/Follow_Me_Mode.ino",
+      "sha256": "32a81df256e4f031ddcaafa6c9c690b9c90e10a9bbf9c318815a4951e6c42b93",
+      "bytes": 1577
+    },
+    {
+      "archive_member": "RobotControlBoard-master/LICENSE",
+      "path": "LICENSE",
+      "sha256": "3972dc9744f6499f0f9b2dbf76696f2ae7ad8af9b23dde66d6af86c9dfb36986",
+      "bytes": 35149
+    },
+    {
+      "archive_member": "RobotControlBoard-master/Line_Follower_Mode.ino",
+      "path": "firmware/Line_Follower_Mode/Line_Follower_Mode.ino",
+      "sha256": "c209e5b7deac6ce7274a1f3940d149a76b047ae2fc6634a5dcb6db065e46b570",
+      "bytes": 972
+    },
+    {
+      "archive_member": "RobotControlBoard-master/Obstacle_Avoiding_Mode.ino",
+      "path": "firmware/Obstacle_Avoiding_Mode/Obstacle_Avoiding_Mode.ino",
+      "sha256": "9cbc3e3ad5c02ff2eedd6528fd289e9503497ba48518d8efd3f5f4e346bd9386",
+      "bytes": 1520
+    },
+    {
+      "archive_member": "RobotControlBoard-master/README.md",
+      "path": "third_party/RobotControlBoard/README.md",
+      "sha256": "149bc6129f3569f99dca415fa3e970e5e01aea0f3451a2b757395c1ca21882dc",
+      "bytes": 3046
+    },
+    {
+      "archive_member": "RobotControlBoard-master/Sumo_Mode.ino",
+      "path": "firmware/Sumo_Mode/Sumo_Mode.ino",
+      "sha256": "99253693c2c860f1cdc52d8dc86f286a47dbd97f7314985a3091e67b5e9f5028",
+      "bytes": 1338
+    }
+  ]
+}
